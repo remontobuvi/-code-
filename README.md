@@ -1,1 +1,1 @@
-12.jpg - image for code "objectsrch"
+12.jpg - image for code "objectsrc.py"
